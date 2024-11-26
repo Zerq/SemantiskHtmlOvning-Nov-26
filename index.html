@@ -113,55 +113,116 @@
 
             <article id="GameDevelopment">
                 <h2>GameDevelopment</h2>
-                <p>
-                    I Tinker with this from time to time but never get very far....<br>
-                    currently experimenting a bit with godot...<br>
-                    <br>
-                    But i have tinkered with XNA before and also done some cool stuff with basic console.<br>
-                    <a href="https://github.com/Zerq/SakuraBlue">Sakura blue</a> console based attempt at a RPG done in
-                    C#.
-                </p>
+
+                <section class="project">
+                    <header>
+                        <h3>SakuraBlue (a console app based retro game design idea i tested)</h3>
+                    </header>
+                    
+                    <p>
+                        I Tinker with this from time to time but never get very far....<br>
+                        currently experimenting a bit with godot...<br>
+                        <br>
+                        But i have tinkered with XNA before and also done some cool stuff with basic console.<br>
+                        console app based attempt at a RPG done in C#.
+                    </p>
+
+                    <footer>
+                        <a href="https://github.com/Zerq/SakuraBlue">Sakura blue</a>
+                    </footer>
+                </section>
+
+
+                
             </article>
 
 
 
             <article id="Typescript">
-                <h2>Typescript Hobby Project: LiteSPA</h2>
-                <p>
-                    This is my own spa framework using only the build in esm module
-                    loader and typescript with mainly build side npm refernces only and some
-                    post transpilation modification steps to enable TSX template support...</p>
+                <h2>Typescript Hobby Project</h2>
 
-                <p>It also has a custom written router and currently uses webcomponents
-                    though i am looking at replacing those.</p>
+                <section class="project">
+                    <header><h3>LiteSPA</h3></header>
+                    <p>
+                        This is my own spa framework using only the build in esm module
+                        loader and typescript with mainly build side npm refernces only and some
+                        post transpilation modification steps to enable TSX template support...</p>
+    
+                    <p>It also has a custom written router and currently uses webcomponents
+                        though i am looking at replacing those.</p>
+    
+                    <p>I also need to write a better IOC container halfway thinking of adding a post transpilation
+                        processing step to grab the interface names and relationships into a metadata file or something...
+                        i might be doing a metadata layer thingy for exporting dotnet class info into javascript anyway...
+                    </p>
+                    <p>That and i am half way wondering if i coudl transfer property getter setter logic too using
+                        webassembly...
+                        <br />
+                        But that is kind of a crazy idea.   
+                    </p>
+                    <footer>
+                        <a href="https://github.com/Zerq/LiteSPA">LiteSPA</a>
+                    </footer>
+                </section>
 
-                <p>I also need to write a better IOC container halfway thinking of adding a post transpilation
-                    processing step to grab the interface names and relationships into a metadata file or something...
-                    i might be doing a metadata layer thingy for exporting dotnet class info into javascript anyway...
-                </p>
-                <p>That and i am half way wondering if i coudl transfer property getter setter logic too using
-                    webassembly...
-                    <br />
-                    But that is kind of a crazy idea...
-                </p>
+               
             </article>
 
             <article id="DotNet">
                 <h2>Dotnet hobby projects</h2>
-                <dl>
-                    <dt>Project Omnuicatz announce</dt>
-                    <dd>basically wanna package a webgui tha generates TTS messages with chim in and out noices and
+                <section class="project">
+                    <header>
+                        <h3>Project Omnuicatz announce</h3>
+                    </header>
+
+                    <p>Basically wanna package a webgui tha generates TTS messages with chim in and out noices and
                         interups a music playlist fading out and pausing it to play the message before returning to the
-                        playlist.</dd>
+                        playlist.
+                    </p>
 
-                    <dt>Epub2Mp3</dt>
-                    <dd>A set of terminal tools for converting a ebook in epub format into a set of mp3s though i also
-                        have plans for a more structured capable format and player...</dd>
+                    <footer>
+                        (not currently published as of yet... got the mp3 generation sorted out but pretty early into
+                        this one...)
+                    </footer>
+                </section>
 
-                    <dt>Animated comicbook Speechreader</dt>
-                    <dd>comicbook reader uses format like cbr and cbz (rar and zip based) inside its just numbered
-                        immages... my idea is to stick scripted html and a text transcript of the speech bubbles and
-                        have TTS.</dd>
+
+                <section  class="project">
+                    <header>
+                        <h3>Epub2Mp3</h3>
+                    </header>
+
+                    <p>
+                        A set of terminal tools for converting a ebook in epub format into a set of mp3s though i also
+                        have plans for a more structured capable format and player...<br /><br />
+
+
+                    </p>
+                    <footer>
+                        (not currently public... i really need to clean this one up a bit had handle variations in epub
+                        formating currently i am just kinda manually altering the source at need to compensate which
+                        works for me but is not a generally good solution...)
+                    </footer>
+                </section>
+
+                <section  class="project">
+                    <header>
+                        <h3>Animated comicbook Speechreader</h3>
+                    </header>
+                    <p>comicbook reader uses format like cbr and cbz (rar and zip based) inside its just numbered
+                        immages...
+                        <br/>  <br/>
+                        My idea is to stick scripted html and a text transcript of the speech bubbles and
+                        have TTS.
+
+                    </p>
+                    <footer>
+                        (I've sort of started and given up on this one a few times... initially because of issue
+                        debugging the embeded browser component i was using.. i know how too do that now so i expect
+                        more progress next time i get around to this... but to make it viable i need some kind of editor
+                        for it too...)
+                    </footer>
+                </section>
                 </dl>
                 </li>
             </article>
