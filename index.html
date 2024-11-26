@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>I HAVE TO MANY F&#65533;&#65533;&#65533;ING HOBBIES!</title>
+</head>
+<style>
+    /*yes i cheated and started early on the CSS but the freaking images wont work very well without it*/
+    aside h2 {
+        width: 100%;
+    }
+
+    aside {
+        border: 0;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        max-width: 30vw;
+    }
+
+    aside img {
+        border: 0;
+        margin: 0;
+        padding: 0;
+    }
+
+    aside .limitWidth {
+        flex: auto;
+        width: calc(50% - 2px);
+        ;
+        border: 1px solid black;
+        background-color: black;
+        margin: 0;
+        padding: 0;
+        vertical-align: top;
+    }
+
+    body {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .wrapper {
+        display: flex;
+        flex-direction: row;
+    }
+</style>
+
+<body>
+    <header>
+        <h1>I HAVE TO MANY F&#65533;&#65533;&#65533;ING HOBBIES!</h1>
+    </header>
+
+    <div class="wrapper">
+        <nav>
+            <ul>
+                <li>
+                    Crafting
+                    <ul>
+                        <li>Programming
+                            <ul>
+                                <li><a href="#DotNet">Dotnet</a></li>
+                                <li><a href="#Typescript">Typescript</a></li>
+                                <li><a href="#GameDevelopment">GameDevelopment</a></li>
+                            </ul>
+                        </li>
+                        <li>Blacksmithing and welding</li>
+                        <li>Leathercrafting</li>
+                        <li><a href="#Laser">Lasercutting</a></li>
+                        <li>3d Priting </li>
+                        <li>Mildly Non-worksafe Embroidery</li>
+                        <li>Drawing</li>
+                        <li>3d modeling/CAD</li>
+                        <li>Electronics</li>
+                        <li>Music</li>
+                        <li>Warhammer40k</li>
+                        <li>Linux</li>
+                    </ul>
+                </li>
+                <li>Media
+                    <ul>
+                        <li>Literature</li>
+                        <li>Anime</li>
+                        <li>Favorit Movies</li>
+                        <li>Games</li>
+                    </ul>
+                </li>
+                <li>Cooking/Baking/Cocktailmaking/CandyMaking</li>
+            </ul>
+        </nav>
+
+        <main>
+            <summary>
+                <h2>Summary</h2>
+                <p>I have way to many interests... i am creative chaos incarnate...<br />
+                    <br />
+                    My hobby is having hobbies.
+                </p>
+            </summary>
+            <article id="Laser">
+                <h2>Laser cutting</h2>
+                <p>
+                    Doing a lot of stuff including trying to design and build a Hurdygurdy, <br />
+                    making a rasberry pi ATX motherboard mount for 1 pi5 2 pi4s and one bannana pi,<br />
+                    And generally i do some x-mas presents this time of year if i can figure out what to make... <br />
+                    <br />
+                    that or i just make a pirate chest and fill it with candy...
+                </p>
+            </article>
+
+            <article id="GameDevelopment">
+                <h2>GameDevelopment</h2>
+                <p>
+                    I Tinker with this from time to time but never get very far....<br>
+                    currently experimenting a bit with godot...<br>
+                    <br>
+                    But i have tinkered with XNA before and also done some cool stuff with basic console.<br>
+                    <a href="https://github.com/Zerq/SakuraBlue">Sakura blue</a> console based attempt at a RPG done in
+                    C#.
+                </p>
+            </article>
+
+
+
+            <article id="Typescript">
+                <h2>Typescript Hobby Project: LiteSPA</h2>
+                <p>
+                    This is my own spa framework using only the build in esm module
+                    loader and typescript with mainly build side npm refernces only and some
+                    post transpilation modification steps to enable TSX template support...</p>
+
+                <p>It also has a custom written router and currently uses webcomponents
+                    though i am looking at replacing those.</p>
+
+                <p>I also need to write a better IOC container halfway thinking of adding a post transpilation
+                    processing step to grab the interface names and relationships into a metadata file or something...
+                    i might be doing a metadata layer thingy for exporting dotnet class info into javascript anyway...
+                </p>
+                <p>That and i am half way wondering if i coudl transfer property getter setter logic too using
+                    webassembly...
+                    <br />
+                    But that is kind of a crazy idea...
+                </p>
+            </article>
+
+            <article id="DotNet">
+                <h2>Dotnet hobby projects</h2>
+                <dl>
+                    <dt>Project Omnuicatz announce</dt>
+                    <dd>basically wanna package a webgui tha generates TTS messages with chim in and out noices and
+                        interups a music playlist fading out and pausing it to play the message before returning to the
+                        playlist.</dd>
+
+                    <dt>Epub2Mp3</dt>
+                    <dd>A set of terminal tools for converting a ebook in epub format into a set of mp3s though i also
+                        have plans for a more structured capable format and player...</dd>
+
+                    <dt>Animated comicbook Speechreader</dt>
+                    <dd>comicbook reader uses format like cbr and cbz (rar and zip based) inside its just numbered
+                        immages... my idea is to stick scripted html and a text transcript of the speech bubbles and
+                        have TTS.</dd>
+                </dl>
+                </li>
+            </article>
+
+        </main>
+
+
+        <aside>
+            <h2>Gallery</h2>
+            <img class="limitWidth" src="./assets/images/chess1.png" alt="">
+            <img class="limitWidth" src="./assets/images/dyptych.png" alt="">
+            <img class="limitWidth" src="./assets/images/dyptych2.png" alt="">
+            <img class="limitWidth" src="./assets/images/lasercut3dprint.jpg" alt="">
+            <img class="limitWidth" src="./assets/images/Linux.png" .jpg" alt="">
+            <img class="limitWidth" src="./assets/images/tripod.png" alt="">
+            <img class="limitWidth" src="./assets/images/chess2.jpg" alt="">
+            <img class="limitWidth" src="./assets/images/redot.png" alt="">
+        </aside>
+    </div>
+
+    <footer>
+        &copy; Karl Axel Lindström 2024
+    </footer>
+</body>
+</htm>
