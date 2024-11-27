@@ -14,7 +14,6 @@
 /home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/SemantiskHtmlOvning-Nov-26.MvcApplicationPartsAssemblyInfo.cache
 /home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/SemantiskHtmlOvning-Nov-26.sourcelink.json
 /home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/scopedcss/bundle/SemantiskHtmlOvning-Nov-26.styles.css
-/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-f10hu0mj4w.gz
 /home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/staticwebassets.build.json
 /home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/staticwebassets.development.json
 /home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -29,3 +28,4 @@
 /home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/SemantiskHtmlOvning-Nov-26.pdb
 /home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/SemantiskHtmlOvning-Nov-26.genruntimeconfig.cache
 /home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/ref/SemantiskHtmlOvning-Nov-26.dll
+/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-6ph2kg04nl.gz

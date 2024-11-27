@@ -1,6 +1,38 @@
 {
   "Files": [
     {
+      "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/Linux.png",
+      "PackagePath": "staticwebassets/assets/images/Linux.png"
+    },
+    {
+      "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/chess1.png",
+      "PackagePath": "staticwebassets/assets/images/chess1.png"
+    },
+    {
+      "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/chess2.jpg",
+      "PackagePath": "staticwebassets/assets/images/chess2.jpg"
+    },
+    {
+      "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/dyptych.png",
+      "PackagePath": "staticwebassets/assets/images/dyptych.png"
+    },
+    {
+      "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/dyptych2.png",
+      "PackagePath": "staticwebassets/assets/images/dyptych2.png"
+    },
+    {
+      "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/lasercut3dprint.jpg",
+      "PackagePath": "staticwebassets/assets/images/lasercut3dprint.jpg"
+    },
+    {
+      "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/redot.png",
+      "PackagePath": "staticwebassets/assets/images/redot.png"
+    },
+    {
+      "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/tripod.png",
+      "PackagePath": "staticwebassets/assets/images/tripod.png"
+    },
+    {
       "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },

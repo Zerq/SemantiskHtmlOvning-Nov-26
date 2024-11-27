@@ -3,52 +3,65 @@
 
 <head>
     <title>I HAVE TO MANY F&#65533;&#65533;&#65533;ING HOBBIES!</title>
+    <style>
+        /*yes i cheated and started early on the CSS but the freaking images wont work very well without it*/
+        aside h2 {
+            width: 100%;
+        }
+    
+        aside {
+            border: 0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            max-width: 30vw;
+        }
+    
+        aside img {
+            border: 0;
+            margin: 0;
+            padding: 0;
+        }
+    
+        aside .limitWidth {
+            flex: auto;
+            width: calc(50% - 2px);
+            ;
+            border: 1px solid black;
+            background-color: black;
+            margin: 0;
+            padding: 0;
+            vertical-align: top;
+        }
+    
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+    
+    
+        .wrapper {
+            display: flex;
+            flex-direction: row;
+        }
+    
+        .lol{
+            filter: invert(1);
+            background: black;
+        }
+    </style>
+    <script>
+
+        window.lol = ()=> {
+            document.body.classList.toggle("lol");
+        };
+
+
+    </script>
+
 </head>
-<style>
-    /*yes i cheated and started early on the CSS but the freaking images wont work very well without it*/
-    aside h2 {
-        width: 100%;
-    }
-
-    aside {
-        border: 0;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        max-width: 30vw;
-    }
-
-    aside img {
-        border: 0;
-        margin: 0;
-        padding: 0;
-    }
-
-    aside .limitWidth {
-        flex: auto;
-        width: calc(50% - 2px);
-        ;
-        border: 1px solid black;
-        background-color: black;
-        margin: 0;
-        padding: 0;
-        vertical-align: top;
-    }
-
-    body {
-        display: flex;
-        flex-direction: column;
-    }
-
-
-    .wrapper {
-        display: flex;
-        flex-direction: row;
-    }
-</style>
-
 <body>
     <header>
         <h1>I HAVE TO MANY F&#65533;&#65533;&#65533;ING HOBBIES!</h1>

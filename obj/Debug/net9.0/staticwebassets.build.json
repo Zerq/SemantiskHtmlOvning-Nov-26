@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LNryU/bq3lQVynJNqXv3u4jL79A4H915e283d2sbW1c=",
+  "Hash": "0d3cFWqVIHIe1B5fEARwMrLRR0MPdgmyPD7nySDBiXk=",
   "Source": "SemantiskHtmlOvning-Nov-26",
   "BasePath": "_content/SemantiskHtmlOvning-Nov-26",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-f10hu0mj4w.gz",
+      "Identity": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-6ph2kg04nl.gz",
       "SourceId": "SemantiskHtmlOvning-Nov-26",
       "SourceType": "Discovered",
       "ContentRoot": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/SemantiskHtmlOvning-Nov-26",
-      "RelativePath": "index#[.{fingerprint=f10hu0mj4w}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=6ph2kg04nl}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,11 +31,179 @@
       "RelatedAsset": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6v9crrfcl9",
-      "Integrity": "DgzOTLwHn5CG/Z8uMSXY9cMmPQCWH+/nG+GsyUWZ7dE=",
+      "Fingerprint": "scmkjag9gq",
+      "Integrity": "LEnZxihmoTheHDxe5iK8loWHQZf+zZAemeeQL9TVcVs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/chess1.png",
+      "SourceId": "SemantiskHtmlOvning-Nov-26",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/",
+      "BasePath": "_content/SemantiskHtmlOvning-Nov-26",
+      "RelativePath": "assets/images/chess1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "urhgfzqkr5",
+      "Integrity": "+ji06Xd3cUcIZ4MIdZPX+4TLOxCFSdTumMpfO1jlj7g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/images/chess1.png"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/chess2.jpg",
+      "SourceId": "SemantiskHtmlOvning-Nov-26",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/",
+      "BasePath": "_content/SemantiskHtmlOvning-Nov-26",
+      "RelativePath": "assets/images/chess2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fdsbgjangj",
+      "Integrity": "YwD3MAeLlu4vqD4XDbkICFHHmCjFzJxRPQJAuNwE/Vs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/images/chess2.jpg"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/dyptych.png",
+      "SourceId": "SemantiskHtmlOvning-Nov-26",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/",
+      "BasePath": "_content/SemantiskHtmlOvning-Nov-26",
+      "RelativePath": "assets/images/dyptych#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oejc6mix0a",
+      "Integrity": "QCtaCQHrYwIDlUesgRVo/SC++9XaPwfvJMeSPZTsXD0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/images/dyptych.png"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/dyptych2.png",
+      "SourceId": "SemantiskHtmlOvning-Nov-26",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/",
+      "BasePath": "_content/SemantiskHtmlOvning-Nov-26",
+      "RelativePath": "assets/images/dyptych2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ktuvj46fjp",
+      "Integrity": "yFAPWXYvzJwOTj4JFcjs44chXTVsP/tHtH2zT8Beu0A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/images/dyptych2.png"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/lasercut3dprint.jpg",
+      "SourceId": "SemantiskHtmlOvning-Nov-26",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/",
+      "BasePath": "_content/SemantiskHtmlOvning-Nov-26",
+      "RelativePath": "assets/images/lasercut3dprint#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "urwo358n9u",
+      "Integrity": "6hL1d5ieOJRMrOYs+8jfLX/s7Akz0NpxXGfYqhgbmPo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/images/lasercut3dprint.jpg"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/Linux.png",
+      "SourceId": "SemantiskHtmlOvning-Nov-26",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/",
+      "BasePath": "_content/SemantiskHtmlOvning-Nov-26",
+      "RelativePath": "assets/images/Linux#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aje1to7817",
+      "Integrity": "1gxgaJ220Jx1twGRbZ1cfH4qM7ydJSLnQ6AcFYfw/dI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/images/Linux.png"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/redot.png",
+      "SourceId": "SemantiskHtmlOvning-Nov-26",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/",
+      "BasePath": "_content/SemantiskHtmlOvning-Nov-26",
+      "RelativePath": "assets/images/redot#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yxq5yjy68u",
+      "Integrity": "pkUbkuCxjkM8U3zsFmlLtw6pdySQXlz064XUChgWYzw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/images/redot.png"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/tripod.png",
+      "SourceId": "SemantiskHtmlOvning-Nov-26",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/",
+      "BasePath": "_content/SemantiskHtmlOvning-Nov-26",
+      "RelativePath": "assets/images/tripod#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g967xq4i7h",
+      "Integrity": "jLsQrVXLrKrwX9rSV+TKfllbAn9OfxUsYPq/RGe1vNw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/images/tripod.png"
     },
     {
       "Identity": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/index.html",
@@ -52,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "f10hu0mj4w",
-      "Integrity": "jeckYUOhvpnXbWaTV73uCd87nT0qnM95ZCtqqDUMq08=",
+      "Fingerprint": "6ph2kg04nl",
+      "Integrity": "5mWPKoRyEBbyGYbBsh5ljyladMSBmCbvdsWFzJfECBA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
@@ -61,13 +229,669 @@
   ],
   "Endpoints": [
     {
-      "Route": "index.f10hu0mj4w.html",
-      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-f10hu0mj4w.gz",
+      "Route": "assets/images/chess1.png",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/chess1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ji06Xd3cUcIZ4MIdZPX+4TLOxCFSdTumMpfO1jlj7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 15:12:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ji06Xd3cUcIZ4MIdZPX+4TLOxCFSdTumMpfO1jlj7g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/chess1.urhgfzqkr5.png",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/chess1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ji06Xd3cUcIZ4MIdZPX+4TLOxCFSdTumMpfO1jlj7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 15:12:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "urhgfzqkr5"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/chess1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ji06Xd3cUcIZ4MIdZPX+4TLOxCFSdTumMpfO1jlj7g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/chess2.fdsbgjangj.jpg",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/chess2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YwD3MAeLlu4vqD4XDbkICFHHmCjFzJxRPQJAuNwE/Vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 15:13:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fdsbgjangj"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/chess2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YwD3MAeLlu4vqD4XDbkICFHHmCjFzJxRPQJAuNwE/Vs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/chess2.jpg",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/chess2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YwD3MAeLlu4vqD4XDbkICFHHmCjFzJxRPQJAuNwE/Vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 15:13:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YwD3MAeLlu4vqD4XDbkICFHHmCjFzJxRPQJAuNwE/Vs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/dyptych.oejc6mix0a.png",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/dyptych.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "851881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QCtaCQHrYwIDlUesgRVo/SC++9XaPwfvJMeSPZTsXD0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 15:13:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oejc6mix0a"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/dyptych.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QCtaCQHrYwIDlUesgRVo/SC++9XaPwfvJMeSPZTsXD0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/dyptych.png",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/dyptych.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "851881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QCtaCQHrYwIDlUesgRVo/SC++9XaPwfvJMeSPZTsXD0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 15:13:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QCtaCQHrYwIDlUesgRVo/SC++9XaPwfvJMeSPZTsXD0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/dyptych2.ktuvj46fjp.png",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/dyptych2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "967977"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yFAPWXYvzJwOTj4JFcjs44chXTVsP/tHtH2zT8Beu0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 15:13:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktuvj46fjp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/dyptych2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yFAPWXYvzJwOTj4JFcjs44chXTVsP/tHtH2zT8Beu0A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/dyptych2.png",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/dyptych2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "967977"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yFAPWXYvzJwOTj4JFcjs44chXTVsP/tHtH2zT8Beu0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 15:13:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yFAPWXYvzJwOTj4JFcjs44chXTVsP/tHtH2zT8Beu0A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/lasercut3dprint.jpg",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/lasercut3dprint.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hL1d5ieOJRMrOYs+8jfLX/s7Akz0NpxXGfYqhgbmPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 11:40:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hL1d5ieOJRMrOYs+8jfLX/s7Akz0NpxXGfYqhgbmPo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/lasercut3dprint.urwo358n9u.jpg",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/lasercut3dprint.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hL1d5ieOJRMrOYs+8jfLX/s7Akz0NpxXGfYqhgbmPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 11:40:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "urwo358n9u"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/lasercut3dprint.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hL1d5ieOJRMrOYs+8jfLX/s7Akz0NpxXGfYqhgbmPo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/Linux.aje1to7817.png",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/Linux.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "803331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1gxgaJ220Jx1twGRbZ1cfH4qM7ydJSLnQ6AcFYfw/dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 15:14:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aje1to7817"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/Linux.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1gxgaJ220Jx1twGRbZ1cfH4qM7ydJSLnQ6AcFYfw/dI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/Linux.png",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/Linux.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "803331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1gxgaJ220Jx1twGRbZ1cfH4qM7ydJSLnQ6AcFYfw/dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 15:14:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1gxgaJ220Jx1twGRbZ1cfH4qM7ydJSLnQ6AcFYfw/dI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/redot.png",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/redot.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "507432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pkUbkuCxjkM8U3zsFmlLtw6pdySQXlz064XUChgWYzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 11:50:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pkUbkuCxjkM8U3zsFmlLtw6pdySQXlz064XUChgWYzw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/redot.yxq5yjy68u.png",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/redot.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "507432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pkUbkuCxjkM8U3zsFmlLtw6pdySQXlz064XUChgWYzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 11:50:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yxq5yjy68u"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/redot.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pkUbkuCxjkM8U3zsFmlLtw6pdySQXlz064XUChgWYzw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/tripod.g967xq4i7h.png",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/tripod.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "490107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jLsQrVXLrKrwX9rSV+TKfllbAn9OfxUsYPq/RGe1vNw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 15:14:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g967xq4i7h"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/tripod.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jLsQrVXLrKrwX9rSV+TKfllbAn9OfxUsYPq/RGe1vNw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/tripod.png",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/tripod.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "490107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jLsQrVXLrKrwX9rSV+TKfllbAn9OfxUsYPq/RGe1vNw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 15:14:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jLsQrVXLrKrwX9rSV+TKfllbAn9OfxUsYPq/RGe1vNw="
+        }
+      ]
+    },
+    {
+      "Route": "index.6ph2kg04nl.html",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-6ph2kg04nl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000251193168"
+          "Quality": "0.000246123554"
         }
       ],
       "ResponseHeaders": [
@@ -77,15 +901,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3980"
+          "Value": "4062"
         },
         {
           "Name": "ETag",
-          "Value": "\"DgzOTLwHn5CG/Z8uMSXY9cMmPQCWH+/nG+GsyUWZ7dE=\""
+          "Value": "\"LEnZxihmoTheHDxe5iK8loWHQZf+zZAemeeQL9TVcVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 18:20:39 GMT"
+          "Value": "Wed, 27 Nov 2024 08:26:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -105,13 +929,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jeckYUOhvpnXbWaTV73uCd87nT0qnM95ZCtqqDUMq08=\""
+          "Value": "W/\"5mWPKoRyEBbyGYbBsh5ljyladMSBmCbvdsWFzJfECBA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f10hu0mj4w"
+          "Value": "6ph2kg04nl"
         },
         {
           "Name": "label",
@@ -119,12 +943,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jeckYUOhvpnXbWaTV73uCd87nT0qnM95ZCtqqDUMq08="
+          "Value": "sha256-5mWPKoRyEBbyGYbBsh5ljyladMSBmCbvdsWFzJfECBA="
         }
       ]
     },
     {
-      "Route": "index.f10hu0mj4w.html",
+      "Route": "index.6ph2kg04nl.html",
       "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -134,7 +958,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13095"
+          "Value": "13482"
         },
         {
           "Name": "Content-Type",
@@ -142,11 +966,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jeckYUOhvpnXbWaTV73uCd87nT0qnM95ZCtqqDUMq08=\""
+          "Value": "\"5mWPKoRyEBbyGYbBsh5ljyladMSBmCbvdsWFzJfECBA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 18:20:39 GMT"
+          "Value": "Wed, 27 Nov 2024 08:26:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -156,7 +980,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f10hu0mj4w"
+          "Value": "6ph2kg04nl"
         },
         {
           "Name": "label",
@@ -164,13 +988,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jeckYUOhvpnXbWaTV73uCd87nT0qnM95ZCtqqDUMq08="
+          "Value": "sha256-5mWPKoRyEBbyGYbBsh5ljyladMSBmCbvdsWFzJfECBA="
         }
       ]
     },
     {
-      "Route": "index.f10hu0mj4w.html.gz",
-      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-f10hu0mj4w.gz",
+      "Route": "index.6ph2kg04nl.html.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-6ph2kg04nl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -179,7 +1003,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3980"
+          "Value": "4062"
         },
         {
           "Name": "Content-Type",
@@ -187,11 +1011,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DgzOTLwHn5CG/Z8uMSXY9cMmPQCWH+/nG+GsyUWZ7dE=\""
+          "Value": "\"LEnZxihmoTheHDxe5iK8loWHQZf+zZAemeeQL9TVcVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 18:20:39 GMT"
+          "Value": "Wed, 27 Nov 2024 08:26:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -209,7 +1033,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f10hu0mj4w"
+          "Value": "6ph2kg04nl"
         },
         {
           "Name": "label",
@@ -217,18 +1041,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DgzOTLwHn5CG/Z8uMSXY9cMmPQCWH+/nG+GsyUWZ7dE="
+          "Value": "sha256-LEnZxihmoTheHDxe5iK8loWHQZf+zZAemeeQL9TVcVs="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-f10hu0mj4w.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-6ph2kg04nl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000251193168"
+          "Quality": "0.000246123554"
         }
       ],
       "ResponseHeaders": [
@@ -238,15 +1062,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3980"
+          "Value": "4062"
         },
         {
           "Name": "ETag",
-          "Value": "\"DgzOTLwHn5CG/Z8uMSXY9cMmPQCWH+/nG+GsyUWZ7dE=\""
+          "Value": "\"LEnZxihmoTheHDxe5iK8loWHQZf+zZAemeeQL9TVcVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 18:20:39 GMT"
+          "Value": "Wed, 27 Nov 2024 08:26:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -266,13 +1090,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jeckYUOhvpnXbWaTV73uCd87nT0qnM95ZCtqqDUMq08=\""
+          "Value": "W/\"5mWPKoRyEBbyGYbBsh5ljyladMSBmCbvdsWFzJfECBA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jeckYUOhvpnXbWaTV73uCd87nT0qnM95ZCtqqDUMq08="
+          "Value": "sha256-5mWPKoRyEBbyGYbBsh5ljyladMSBmCbvdsWFzJfECBA="
         }
       ]
     },
@@ -287,7 +1111,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13095"
+          "Value": "13482"
         },
         {
           "Name": "Content-Type",
@@ -295,11 +1119,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jeckYUOhvpnXbWaTV73uCd87nT0qnM95ZCtqqDUMq08=\""
+          "Value": "\"5mWPKoRyEBbyGYbBsh5ljyladMSBmCbvdsWFzJfECBA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 18:20:39 GMT"
+          "Value": "Wed, 27 Nov 2024 08:26:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -309,13 +1133,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jeckYUOhvpnXbWaTV73uCd87nT0qnM95ZCtqqDUMq08="
+          "Value": "sha256-5mWPKoRyEBbyGYbBsh5ljyladMSBmCbvdsWFzJfECBA="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-f10hu0mj4w.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-6ph2kg04nl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -324,7 +1148,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3980"
+          "Value": "4062"
         },
         {
           "Name": "Content-Type",
@@ -332,11 +1156,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DgzOTLwHn5CG/Z8uMSXY9cMmPQCWH+/nG+GsyUWZ7dE=\""
+          "Value": "\"LEnZxihmoTheHDxe5iK8loWHQZf+zZAemeeQL9TVcVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 18:20:39 GMT"
+          "Value": "Wed, 27 Nov 2024 08:26:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -354,7 +1178,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DgzOTLwHn5CG/Z8uMSXY9cMmPQCWH+/nG+GsyUWZ7dE="
+          "Value": "sha256-LEnZxihmoTheHDxe5iK8loWHQZf+zZAemeeQL9TVcVs="
         }
       ]
     }
