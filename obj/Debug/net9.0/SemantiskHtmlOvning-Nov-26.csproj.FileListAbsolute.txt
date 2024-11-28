@@ -28,4 +28,6 @@
 /home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/SemantiskHtmlOvning-Nov-26.pdb
 /home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/SemantiskHtmlOvning-Nov-26.genruntimeconfig.cache
 /home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/ref/SemantiskHtmlOvning-Nov-26.dll
-/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-6ph2kg04nl.gz
+/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/j1czoqa2b9-1qh4sknus8.gz
+/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/ot50hgcv63-9hhicy3v6i.gz
+/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/obj/Debug/net9.0/compressed/8emw8p747p-zshjbm2rrh.gz

@@ -25,12 +25,20 @@
       "PackagePath": "staticwebassets/assets/images/lasercut3dprint.jpg"
     },
     {
+      "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/noise.svg",
+      "PackagePath": "staticwebassets/assets/images/noise.svg"
+    },
+    {
       "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/redot.png",
       "PackagePath": "staticwebassets/assets/images/redot.png"
     },
     {
       "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/images/tripod.png",
       "PackagePath": "staticwebassets/assets/images/tripod.png"
+    },
+    {
+      "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/assets/styles/main.css",
+      "PackagePath": "staticwebassets/assets/styles/main.css"
     },
     {
       "Id": "/home/arch/Documents/GitHub/SemantiskHtmlOvning-Nov-26/wwwroot/index.html",

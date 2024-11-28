@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SemantiskHtmlOvning-Nov-26")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6057344be281734b3a132881b3fa2602ce252b09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c869831f0e0da3fc274a26c1d9cfdc21626b2b9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SemantiskHtmlOvning-Nov-26")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SemantiskHtmlOvning-Nov-26")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

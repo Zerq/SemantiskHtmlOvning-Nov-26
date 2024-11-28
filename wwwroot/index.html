@@ -2,324 +2,402 @@
 <html lang="en">
 
 <head>
+    <meta charset="UTF-8" />
     <title>I HAVE TO MANY F&#65533;&#65533;&#65533;ING HOBBIES!</title>
-    <style>
-        /*yes i cheated and started early on the CSS but the freaking images wont work very well without it*/
-        aside h2 {
-            width: 100%;
-        }
-    
-        aside {
-            border: 0;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            max-width: 30vw;
-        }
-    
-        aside img {
-            border: 0;
-            margin: 0;
-            padding: 0;
-        }
-    
-        aside .limitWidth {
-            flex: auto;
-            width: calc(50% - 2px);
-            ;
-            border: 1px solid black;
-            background-color: black;
-            margin: 0;
-            padding: 0;
-            vertical-align: top;
-        }
-    
-        body {
-            display: flex;
-            flex-direction: column;
-        }
-    
-    
-        .wrapper {
-            display: flex;
-            flex-direction: row;
-        }
-    
-        .lol{
-            filter: invert(1);
-            background: black;
-        }
-    </style>
+    <link rel="stylesheet" href="./assets/styles/main.css">
     <script>
-
-        window.lol = ()=> {
+        window.lol = () => {
             document.body.classList.toggle("lol");
         };
 
-
+        window.dark = () => {
+            document.body.classList.toggle("darkmode");
+        };
     </script>
-
 </head>
+
 <body>
-    <header>
-        <h1>I HAVE TO MANY F&#65533;&#65533;&#65533;ING HOBBIES!</h1>
-    </header>
+    <div class="outerWrapper">
+        <header>
+            <h1>I HAVE TO MANY F&#65533;&#65533;&#65533;ING HOBBIES!</h1>
+            <p class="crazyProclamation">I AM A CHILD OF THE 90ties you cannot deny me text-decoration: blink!<br />
+                (Technically also of the 80ties though i rember bugger all of that....) </p>
+        </header>
 
-    <div class="wrapper">
-        <nav>
-            <ul>
-                <li>
-                    Crafting
-                    <ul>
-                        <li>Programming
-                            <ul>
-                                <li><a href="#DotNet">Dotnet</a></li>
-                                <li><a href="#Typescript">Typescript</a></li>
-                                <li><a href="#GameDevelopment">GameDevelopment</a></li>
-                            </ul>
-                        </li>
-                        <li>Blacksmithing and welding</li>
-                        <li>Leathercrafting</li>
-                        <li><a href="#Laser">Lasercutting</a></li>
-                        <li><a href="#3dprinting">3d Priting</a></li>
-                        <li><a href="#MNWSE">Mildly Non-worksafe Embroidery</a></li>
-                        <li>Drawing</li>
-                        <li>3d modeling/CAD</li>
-                        <li>Electronics</li>
-                        <li><a href="#music">Music</a></li>
-                        <li>Warhammer40k</li>
-                        <li>Linux</li>
-                    </ul>
-                </li>
-                <li>Media
-                    <ul>
-                        <li>Literature</li>
-                        <li>Anime</li>
-                        <li>Favorit Movies</li>
-                        <li>Games</li>
-                    </ul>
-                </li>
-                <li>Cooking/Baking/Cocktailmaking/CandyMaking</li>
-            </ul>
-        </nav>
-
-        <main>
-            <summary>
-                <h2>Summary</h2>
-                <p>I have way to many interests... i am creative chaos incarnate...<br />
-                    <br />
-                    My hobby is having hobbies.
-                </p>
-            </summary>
-
-            <article id="music">
-                <header>
-                    <h2>Music</h2>
-                </header>
-                <p>
-                    I do like playing any kind of keyed instrument generally speaking... though i can only really pick
-                    out a melody so not really skilled its more something i aspired to..
-
-                    I also like tinkering in FL studio...
-
-                    Currently my instrument/equipment collection includes
-                </p>
+        <div class="wrapper">
+            <nav>
                 <ul>
-
-                    <li> A nerdy gurdy (a laser cut hurdy gurdy),</li>
-                    <li>Melodica</li>
-                    <li>Casiotone CT-S300 keyboard</li>
-                    <li>Arturia Microbrude analog syntesizer</li>
-                    <li>Korg NST-1 digital</li>
-                    <li>A very basic Bass (which i suck at playing!)</li>
-                    <li>A roland sound cube</li>
-                    <li>I also have a blasted little sound interface that i am trying to get to run in linux.</li>
-                    <li>Roland Sound Canvas 66 which</li>
-                    <li>Xylophone (with some bits missing)</li>
-                    <li>a punshcard operated music box</li>
-                </ul>
-                <p>
-                    I am also partial to tinkering with VCV (a very fun free digital euro rack simulator)
-                </p>
-            </article>
-
-            <article id="3dprinting">
-                <header>
-                    <h2>3d printing</h2>
-                </header>
-                <p>
-                    I 3d print a lot of things... well when my 3d printers are not broken or jammed and i am to shit
-                    lazy to fix them.<br />
-                    before i've done things like tripods and repairs to tools and even tried making a lathe... not
-                    practical by my methods though someone did try it but with concreet as a filler which looks
-                    interesting..
-                    i've done something similar when i plaster filled a dumbel 3d printed...<br /><br />
-
-                    other then that i've done containers and paint bottle trays etc... all useful stuff..<br /><br />
-
-                    Hell i even made weaving supplies for my mom.
-                </p>
-            </article>
-
-
-            <article id="Laser">
-                <header>
-                    <h2>Laser cutting</h2>
-                </header>
-                <p>
-                    Doing a lot of stuff including trying to design and build a Hurdygurdy, <br />
-                    making a rasberry pi ATX motherboard mount for 1 pi5 2 pi4s and one bannana pi,<br />
-                    And generally i do some x-mas presents this time of year if i can figure out what to make... <br />
-                    <br />
-                    that or i just make a pirate chest and fill it with candy...
-                </p>
-            </article>
-
-            <article id="GameDevelopment">
-                <h2>GameDevelopment</h2>
-                <section class="project">
-                    <header>
-                        <h3>SakuraBlue (a console app based retro game design idea i tested)</h3>
-                    </header>
-
-                    <p>
-                        I Tinker with this from time to time but never get very far....<br>
-                        currently experimenting a bit with godot...<br>
-                        <br>
-                        But i have tinkered with XNA before and also done some cool stuff with basic console.<br>
-                        console app based attempt at a RPG done in C#.
-                    </p>
-
-                    <footer>
-                        <a href="https://github.com/Zerq/SakuraBlue">Sakura blue</a>
-                    </footer>
-                </section>
-            </article>
-
-            <article id="Typescript">
-                <h2>Typescript Hobby Project</h2>
-
-                <section class="project">
-                    <header>
-                        <h3>LiteSPA</h3>
-                    </header>
-                    <p>
-                        This is my own spa framework using only the build in esm module
-                        loader and typescript with mainly build side npm refernces only and some
-                        post transpilation modification steps to enable TSX template support...</p>
-
-                    <p>It also has a custom written router and currently uses webcomponents
-                        though i am looking at replacing those.</p>
-
-                    <p>I also need to write a better IOC container halfway thinking of adding a post transpilation
-                        processing step to grab the interface names and relationships into a metadata file or
-                        something...
-                        i might be doing a metadata layer thingy for exporting dotnet class info into javascript
-                        anyway...
-                    </p>
-                    <p>That and i am half way wondering if i coudl transfer property getter setter logic too using
-                        webassembly...
-                        <br />
-                        But that is kind of a crazy idea.
-                    </p>
-                    <footer>
-                        <a href="https://github.com/Zerq/LiteSPA">LiteSPA</a>
-                    </footer>
-                </section>
-            </article>
-
-            <article id="DotNet">
-                <h2>Dotnet hobby projects</h2>
-                <section class="project">
-                    <header>
-                        <h3>Project Omnicatz announce</h3>
-                    </header>
-
-                    <p>Basically wanna package a webgui that generates TTS messages with chim in and out noices and
-                        interups a music playlist fading out and pausing it to play the message before returning to the
-                        playlist.
-                    </p>
-
-                    <footer>
-                        (not currently published as of yet... got the mp3 generation sorted out but pretty early into
-                        this one...)
-                    </footer>
-                </section>
-
-
-                <section class="project">
-                    <header>
-                        <h3>Epub2Mp3</h3>
-                    </header>
-
-                    <p>
-                        A set of terminal tools for converting a ebook in epub format into a set of mp3s though i also
-                        have plans for a more structured capable format and player...<br /><br />
-
-
-                    </p>
-                    <footer>
-                        (not currently public... i really need to clean this one up a bit had handle variations in epub
-                        formating currently i am just kinda manually altering the source at need to compensate which
-                        works for me but is not a generally good solution...)
-                    </footer>
-                </section>
-
-                <section class="project">
-                    <header>
-                        <h3>Animated comicbook Speechreader</h3>
-                    </header>
-                    <p>comicbook reader uses format like cbr and cbz (rar and zip based) inside its just numbered
-                        immages...
-                        <br /> <br />
-                        My idea is to stick scripted html and a text transcript of the speech bubbles and
-                        have TTS.
-
-                    </p>
-                    <footer>
-                        (I've sort of started and given up on this one a few times... initially because of issue
-                        debugging the embeded browser component i was using.. i know how too do that now so i expect
-                        more progress next time i get around to this... but to make it viable i need some kind of editor
-                        for it too...)
-                    </footer>
-                </section>
-                </dl>
+                    <li>
+                        <span>Crafting</span>
+                        <ul>
+                            <li><span>Programming</span>
+                                <ul>
+                                    <li><span><a href="#DotNet">Dotnet</a></span></li>
+                                    <li><span><a href="#Typescript">Typescript</a></span></li>
+                                    <li><span><a href="#GameDevelopment">GameDevelopment</a></span></li>
+                                </ul>
+                            </li>
+                            <li><span>Blacksmithing and welding</span></li>
+                            <li><span>Leathercrafting</span></li>
+                            <li><span><a href="#Laser">Lasercutting</a></span></li>
+                            <li><span><a href="#3dprinting">3d Priting</a></span></li>
+                            <li><span><a href="#MNWSE">Mildly Non-worksafe Embroidery</a></span></li>
+                            <li><span><a href="#drawing">Drawing</a></span></li>
+                            <li><span><a href="#cad">3d modeling/CAD</a></span></li>
+                            <li><span>Electronics</span></li>
+                            <li><span><a href="#music">Music</a></span></li>
+                            <li><span>Warhammer40k</span></li>
+                            <li><span>Linux</span></li>
+                        </ul>
+                    </li>
+                    <li><span>Media</span>
+                        <ul>
+                            <li><span>Literature</span>
+                            <li><span><a href="#Writing">Writing</a></span></li>
+                            <li><span><a href="#Reading">Reading</a></span></li>
+                        </ul>
+                    </li>
+                    <li><span>Anime</span></li>
+                    <li><span>Favorit Movies</span></li>
+                    <li><span>Games</span></li>
+                
+                <li> <span>Culinary Interests</span>
+                    <ul>
+                        <li><span>Cooking</span></li>
+                        <li><span>Baking</span></li>
+                        <li><span>Cocktail making</span></li>
+                        <li><span>Candy making</span></li>
+                    </ul>
                 </li>
-            </article>
+                </ul>
+            </nav>
 
-            <article id="MNWSE">
-                <h2>Mildly Non-worksafe Embroidery</h2>
-                <p>
-                    It's a hobby... but since it is mildly non-worksafe it will not be depicted or described here :P
-                    <br /><br />
-                    And if i am gonna do embroidery i should put some kind of spin on it XD
-                    <br /><br />
-                    (the contraryan in me demands it!!)
-                </p>
-            </article>
+            <main>
+                <summary>
+                    <h2>Summary</h2>
+                    <p>I have way to many interests... i am creative chaos incarnate...<br />
+                        <br />
+                        My hobby is having hobbies.
+                    </p>
+                </summary>
 
-        </main>
+                <article id="cad">
+                    <header>
+                        <h2>3d modeling/CAD</h2>
+                    </header>
+                    <p>
+                        I started out in the 90ties with Bryce 3d and poser which i got free older version of from a
+                        computer magazine which was a thing back then.<br />
+                        Later i taught my self 3d studio max though badly... <br />
+                        Then i studied 3d and was actually taugh maya which frankly i cant excuse paying for so tha
+                        skillset
+                        has mostly degraded by now...<br />
+                        But i did master sketchup which i use the 2017 make version of to this day using Wine in linux.
+                        (i
+                        recently finally got the thing to update visually consistently yay!)<br />
+                        <br />
+                        I use it for all my 3d priting and laser cutting project but the drawback here is its not good
+                        for
+                        rounded elements so my 3d work has gone in a very engenerring directed direction where i mostly
+                        build functional pieces.<br />
+                        <br />
+                        Today i will happily employ both techniques in tandem.
+                    </p>
+
+                </article>
+
+                <article id="drawing">
+                    <header>
+                        <h2>Drawing</h2>
+                    </header>
+                    <p>
+                        I've studied art somewhat and it something i do from time to time but maybe not as extensivly as
+                        in
+                        the past.<br />
+                        usually its judy doodles tanks, giant, robots scantily clad catgirl etc... <br />
+                        <br />
+                        But i also draw practical things like design i later 3d print or laser cut or otherwise build..
+                        wireframes for layout etc etc..<br />
+                        <br />
+                        Art has always been an interest and i have used an array of diffrent techniques generally but
+                        mostly
+                        i draw...<br />
+                        mostly in a anime style. <br />
+                        I am not very efficent about it though and will spend way to much time on a single work if i go
+                        all
+                        the way and decide to digitally outline color and shade it. <br />
+                        Also i am horribly inconsistent in style partly from changing my technique around and choice of
+                        art
+                        supplies used. <br />
+                        one day i may be using pro markrs and fiber pens... then next maybe i am experimenting with some
+                        odd
+                        combination of tipex and fiber pens or i am using in pens
+                        or just a mechanical pencel and thin mechanicaly feeding eraser and then scanning and outlining
+                        digitally.. <br /> or turning it into a SVG even. <br />
+                        <br />
+                        As of late i have mostly been working directly in boxy3d doing svg designs.<br />
+                        <br />
+                        I've done some logo design but my nepew is probably still a bit better at that sort of thing.
+                    </p>
+                </article>
+                <article id="music">
+                    <header>
+                        <h2>Music</h2>
+                    </header>
+                    <p>
+                        I do like playing any kind of keyed instrument generally speaking... though i can only really
+                        pick
+                        out a melody so not really skilled its more something i aspired to..
+
+                        I also like tinkering in FL studio...
+
+                        Currently my instrument/equipment collection includes
+                    </p>
+                    <ul>
+
+                        <li> A nerdy gurdy (a laser cut hurdy gurdy),</li>
+                        <li>Melodica</li>
+                        <li>Casiotone CT-S300 keyboard</li>
+                        <li>Arturia Microbrude analog syntesizer</li>
+                        <li>Korg NST-1 digital</li>
+                        <li>A very basic Bass (which i suck at playing!)</li>
+                        <li>A roland sound cube</li>
+                        <li>I also have a blasted little sound interface that i am trying to get to run in linux.</li>
+                        <li>Roland Sound Canvas 66 which</li>
+                        <li>Xylophone (with some bits missing)</li>
+                        <li>a punshcard operated music box</li>
+                    </ul>
+                    <p>
+                        I am also partial to tinkering with VCV (a very fun free digital euro rack simulator)
+                    </p>
+                </article>
+
+                <article id="3dprinting">
+                    <header>
+                        <h2>3d printing</h2>
+                    </header>
+                    <p>
+                        I 3d print a lot of things... well when my 3d printers are not broken or jammed and i am to shit
+                        lazy to fix them.<br />
+                        before i've done things like tripods and repairs to tools and even tried making a lathe... not
+                        practical by my methods though someone did try it but with concreet as a filler which looks
+                        interesting..
+                        i've done something similar when i plaster filled a dumbel 3d printed...<br /><br />
+
+                        other then that i've done containers and paint bottle trays etc... all useful
+                        stuff..<br /><br />
+
+                        Hell i even made weaving supplies for my mom.
+                    </p>
+                </article>
 
 
+                <article id="Laser">
+                    <header>
+                        <h2>Laser cutting</h2>
+                    </header>
+                    <p>
+                        Doing a lot of stuff including trying to design and build a Hurdygurdy, <br />
+                        making a rasberry pi ATX motherboard mount for 1 pi5 2 pi4s and one bannana pi,<br />
+                        And generally i do some x-mas presents this time of year if i can figure out what to make...
+                        <br />
+                        <br />
+                        that or i just make a pirate chest and fill it with candy...
+                    </p>
+                </article>
+
+                <article id="GameDevelopment">
+                    <h2>GameDevelopment</h2>
+                    <section class="project">
+                        <header>
+                            <h3>SakuraBlue (a console app based retro game design idea i tested)</h3>
+                        </header>
+
+                        <p>
+                            I Tinker with this from time to time but never get very far....<br>
+                            currently experimenting a bit with godot...<br>
+                            <br>
+                            But i have tinkered with XNA before and also done some cool stuff with basic console.<br>
+                            console app based attempt at a RPG done in C#.
+                        </p>
+
+                        <footer>
+                            <a href="https://github.com/Zerq/SakuraBlue">Sakura blue</a>
+                        </footer>
+                    </section>
+                </article>
+
+                <article id="Typescript">
+                    <h2>Typescript Hobby Project</h2>
+
+                    <section class="project">
+                        <header>
+                            <h3>LiteSPA</h3>
+                        </header>
+                        <p>
+                            This is my own spa framework using only the build in esm module
+                            loader and typescript with mainly build side npm refernces only and some
+                            post transpilation modification steps to enable TSX template support...</p>
+
+                        <p>It also has a custom written router and currently uses webcomponents
+                            though i am looking at replacing those.</p>
+
+                        <p>I also need to write a better IOC container halfway thinking of adding a post transpilation
+                            processing step to grab the interface names and relationships into a metadata file or
+                            something...
+                            i might be doing a metadata layer thingy for exporting dotnet class info into javascript
+                            anyway...
+                        </p>
+                        <p>That and i am half way wondering if i coudl transfer property getter setter logic too using
+                            webassembly...
+                            <br />
+                            But that is kind of a crazy idea.
+                        </p>
+                        <footer>
+                            <a href="https://github.com/Zerq/LiteSPA">LiteSPA</a>
+                        </footer>
+                    </section>
+                </article>
+
+                <article id="DotNet">
+                    <h2>Dotnet hobby projects</h2>
+                    <section class="project">
+                        <header>
+                            <h3>Project Omnicatz announce</h3>
+                        </header>
+
+                        <p>Basically wanna package a webgui that generates TTS messages with chim in and out noices and
+                            interups a music playlist fading out and pausing it to play the message before returning to
+                            the
+                            playlist.
+                        </p>
+
+                        <footer>
+                            (not currently published as of yet... got the mp3 generation sorted out but pretty early
+                            into
+                            this one...)
+                        </footer>
+                    </section>
 
 
-        <aside>
-            <h2>Gallery</h2>
-            <img class="limitWidth" src="./assets/images/chess1.png" alt="a picture of a cad design for a laser cuttable chessboard set">
-            <img class="limitWidth" src="./assets/images/dyptych.png" alt="a picture dyptych (wax tablet) and a hand holding a bronze stylus resting on top of a cassiotone ct-s300 keyboard for some reason." >
-            <img class="limitWidth" src="./assets/images/dyptych2.png" alt="a picture of the back side of a dyptych(wax tablet) depicting an arched window a rose on one side and a rabbit knight on a lion and a sun">
-            <img class="limitWidth" src="./assets/images/lasercut3dprint.jpg" alt="A picture of a hopper built of 3d cut wood and joined together with 3d printed plastic brackets">
-            <img class="limitWidth" src="./assets/images/Linux.png" .jpg" alt="a screen shoot of a heavily modified linux desktop made to look a bit more windows like but with the windows logo replaced by the adeptus machanicus logo and with a adeptus sororitas wallpaper">
-            <img class="limitWidth" src="./assets/images/tripod.png" alt="a picture of a home made 3d printed tripod utilizing electrical pvc pipes">
-            <img class="limitWidth" src="./assets/images/chess2.jpg" alt="a picture of a laser cut chess set but without the wood stain applied">
-            <img class="limitWidth" src="./assets/images/redot.png" alt="a picture of a 3d printed home made reddot sight made with glass from old slide projector frames.">
-        </aside>
+                    <section class="project">
+                        <header>
+                            <h3>Epub2Mp3</h3>
+                        </header>
+
+                        <p>
+                            A set of terminal tools for converting a ebook in epub format into a set of mp3s though i
+                            also
+                            have plans for a more structured capable format and player...<br /><br />
+
+
+                        </p>
+                        <footer>
+                            (not currently public... i really need to clean this one up a bit had handle variations in
+                            epub
+                            formating currently i am just kinda manually altering the source at need to compensate which
+                            works for me but is not a generally good solution...)
+                        </footer>
+                    </section>
+
+                    <section class="project">
+                        <header>
+                            <h3>Animated comicbook Speechreader</h3>
+                        </header>
+                        <p>comicbook reader uses format like cbr and cbz (rar and zip based) inside its just numbered
+                            immages...
+                            <br /> <br />
+                            My idea is to stick scripted html and a text transcript of the speech bubbles and
+                            have TTS.
+
+                        </p>
+                        <footer>
+                            (I've sort of started and given up on this one a few times... initially because of issue
+                            debugging the embeded browser component i was using.. i know how too do that now so i expect
+                            more progress next time i get around to this... but to make it viable i need some kind of
+                            editor
+                            for it too...)
+                        </footer>
+                    </section>
+                    </dl>
+                    </li>
+                </article>
+
+                <article id="MNWSE">
+                    <h2>Mildly Non-worksafe Embroidery</h2>
+                    <p>
+                        It's a hobby... but since it is mildly non-worksafe it will not be depicted or described here :P
+                        <br /><br />
+                        And if i am gonna do embroidery i should put some kind of spin on it XD
+                        <br /><br />
+                        (the contraryan in me demands it!!)
+                    </p>
+                </article>
+
+
+                <article id="Writing">
+                    <h2>Writing</h2>
+                    <p>
+                        I rather enjoy writing poetry and i do from time to time tinker with writing stories... though i
+                        get Fairlyfar in world building i rarely get very far on actually writing anything other then an
+                        general story outline.<br />
+
+                        <br />
+                        now as for poetry there i have some achivments...<br />
+                        <br />
+
+                        I have for instance a rather long super villain poem that is meant to follow a narrative
+                        involving a love triangle and time travel....<br />.<br />
+                        <br />
+                        I also wrote a poem that doubles a skyrim build guide and exploit guide for a stealth archer
+                        build / unstopable necromancer.
+
+
+                    </p>
+                </article>
+
+                <article id="Reading">
+                    <h2>Reading: Series i like reading or have read to completion</h2>
+                    <p>
+                        My Kindle book collection stands at 1925 books<br/>
+                        666 audio books (NUMBER OF THE BEAST LOL!)<br/>
+                        <br/>
+                        my J-novel list stands att 208 light novels.<br/><br/>
+                        and i also get a few things from smashwords...<br/>
+                        Plus before i even got kindle i read though lord of the rings and the whole discworld series.
+                    </p>
+                </article>
+
+            </main>
+
+
+            </main>
+
+            <aside>
+                <h2>Gallery</h2>
+                <img class="limitWidth" src="./assets/images/chess1.png"
+                    alt="a picture of a cad design for a laser cuttable chessboard set" />
+                <img class="limitWidth" src="./assets/images/dyptych.png"
+                    alt="a picture dyptych (wax tablet) and a hand holding a bronze stylus resting on top of a cassiotone ct-s300 keyboard for some reason." />
+                <img class="limitWidth" src="./assets/images/dyptych2.png"
+                    alt="a picture of the back side of a dyptych(wax tablet) depicting an arched window a rose on one side and a rabbit knight on a lion and a sun" />
+                <img class="limitWidth" src="./assets/images/lasercut3dprint.jpg"
+                    alt="A picture of a hopper built of 3d cut wood and joined together with 3d printed plastic brackets" />
+                <img class="limitWidth" src="./assets/images/Linux.png" .jpg"
+                    alt="a screen shoot of a heavily modified linux desktop made to look a bit more windows like but with the windows logo replaced by the adeptus machanicus logo and with a adeptus sororitas wallpaper" />
+                <img class="limitWidth" src="./assets/images/tripod.png"
+                    alt="a picture of a home made 3d printed tripod utilizing electrical pvc pipes/">
+                <img class="limitWidth" src="./assets/images/chess2.jpg"
+                    alt="a picture of a laser cut chess set but without the wood stain applied" />
+                <img class="limitWidth" src="./assets/images/redot.png"
+                    alt="a picture of a 3d printed home made reddot sight made with glass from old slide projector frames." />
+            </aside>
+        </div>
+
+        <footer>
+            &copy; Karl Axel Lindström 2024
+        </footer>
     </div>
-
-    <footer>
-        &copy; Karl Axel Lindström 2024
-    </footer>
 </body>
-</htm>
+
+</html>
