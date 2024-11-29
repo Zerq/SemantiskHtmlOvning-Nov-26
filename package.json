@@ -1,11 +1,31 @@
 {
-"scripts": {
-"build": "gulp"
-},
-
-"dependencies": {
-    "gulp-newer": "1.4.0",    
-    "gulp":"5.0.0"
-}
-
+    "name": "Hobby page",
+    "licenses": [
+        {
+            "type": "ISC",
+            "url": "https://opensource.org/licenses/ISC"
+        },
+        {
+            "type": "LGPL-3.0-or-later",
+            "url": "https://www.gnu.org/licenses/lgpl-3.0.en.html"
+        }
+    ],
+    "type": "module",
+    "scripts": {
+        "transpile": "tsc && gulp",
+        "fix": "dotnet ./bin/Debug/net9.0/SemantiskHtmlOvning-Nov-26.dll ./src ./wwwroot",
+        "build": "npm run transpile &&  npm run fix",
+        "test": "npm run build && node ./wwwroot/myTest.js"
+    },
+    "dependencies": {
+        "@types/node": "22.7.9",
+        "react": "18.3.1",
+        "gulp-newer": "1.4.0",
+        "gulp": "5.0.0",
+        "typescript": "5.4.5",
+        "@types/react": "18.3.11",
+        "@types/jest": "29.5.14",
+        "node": "22.10.0",
+        "@microsoft/signalr": "8.0.7"
+    }
 }

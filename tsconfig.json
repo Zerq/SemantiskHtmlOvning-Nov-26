@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "module": "ES2022",
+        "moduleResolution": "Bundler",
+        "outDir": "wwwroot",
+        "jsx": "react-jsx",
+        "sourceMap": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "baseUrl": "src",
+        "sourceRoot": "src"
+    },
+    "paths":{
+        "React":   ["src/libs/Litespa/src/react/*"]
+    },
+    "exclude": [
+        "nodeModules",
+        "wwwroot"
+    ],
+    "include": ["test/*","src/*", "src/**.*"]
+
+}

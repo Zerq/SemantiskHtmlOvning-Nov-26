@@ -1,7 +1,16 @@
-var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
+using Hobby;
 
-app.UseDefaultFiles();
-app.UseStaticFiles();
-
-app.Run();
+public class Program
+{
+    public static void Main(params string[] args)
+    {
+        if (args.Length > 0)
+        {
+            TsxFix.Run(args);
+        }
+        else
+        {
+            WebApp.Run();
+        }
+    }
+}
