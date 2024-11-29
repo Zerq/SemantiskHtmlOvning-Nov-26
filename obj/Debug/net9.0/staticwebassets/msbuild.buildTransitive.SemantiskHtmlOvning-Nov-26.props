@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/SemantiskHtmlOvning-Nov-26.props" />
-</Project>

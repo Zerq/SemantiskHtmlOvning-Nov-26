@@ -1,0 +1,11 @@
+{
+"scripts": {
+"build": "gulp"
+},
+
+"dependencies": {
+    "gulp-newer": "1.4.0",    
+    "gulp":"5.0.0"
+}
+
+}

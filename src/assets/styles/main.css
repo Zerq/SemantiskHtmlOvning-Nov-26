@@ -7,8 +7,9 @@ main {
 nav{
     padding: 5px;
     background-color: aqua;
+    background-image:  url(../images/noise.svg);
+    background-blend-mode: color;
     padding: 1em;
-
 }
 
 nav > ul
